@@ -19,7 +19,7 @@
 	</div><!-- Panel Info -->
 
 	<!-- Moal update posts-->
-		<%= form_for(post, :method => :put) do |f| %>
+		<%= form_for(post, :method => :put, remote: true) do |f| %>
 		<div class="modal fade" id="myupdatepost_<%= post.id %>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
