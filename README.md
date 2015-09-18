@@ -1,13 +1,3 @@
+grid layout microposts with popup interface and ajax page refresh
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-
-https://stuk.io/en/codecasts/ajax-crud
-
-https://github.com/jay2452/my_ajax/blob/master/app/views/posts/index.html.erb
+Nolan Morache
